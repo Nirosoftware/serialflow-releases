@@ -1,15 +1,17 @@
 # SerialFlow Releases
 
-Signed CLI binaries for macOS, Windows, and Linux.
+Signed CLI binaries for SerialFlow.
+
+Main application: [serialflow.app](https://serialflow.app)
 
 ## Install
+
 ```bash
 # macOS
 brew install nirosoftware/serialflow/serialflow
 
 # Windows
 winget install Nirosoftware.SerialFlow
-
-# Direct download
-# See Releases tab
 ```
+
+For direct binaries, use the [Releases](https://github.com/Nirosoftware/serialflow-releases/releases) page.
